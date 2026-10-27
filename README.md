@@ -241,7 +241,7 @@ Displays the distribution of ages within the dataset.
 
 Visualizes blood-pressure differences or distributions examined in the analysis.
 
-![Blood Pressure Differentiation](Blood%20Pressure%20Differentiation.png)
+![Blood Pressure Differentiation](blood_pressure_differentiation.png)
 
 ### Correlation Heatmap
 
